@@ -10,3 +10,5 @@ one.o:#one.c
 
 clean:
 	rm -rf *.o main
+verify:
+	./main
